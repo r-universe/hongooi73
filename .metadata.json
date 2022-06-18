@@ -1,0 +1,10 @@
+[
+  {
+    "package": "glmnetUtils",
+    "oncran": true
+  },
+  {
+    "package": "SAR",
+    "oncran": true
+  }
+]
