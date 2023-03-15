@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SAR"]
-	path = SAR
-	url = https://github.com/hongooi73/sar
-	shallow = true
-	registered = true
 [submodule "glmnetUtils"]
 	path = glmnetUtils
 	url = https://github.com/hongooi73/glmnetutils
+	shallow = true
+	registered = true
+[submodule "SAR"]
+	path = SAR
+	url = https://github.com/hongooi73/sar
 	shallow = true
 	registered = true
