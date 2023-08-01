@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "glmnetUtils"]
-	path = glmnetUtils
-	url = https://github.com/hongooi73/glmnetutils
 [submodule "SAR"]
 	path = SAR
 	url = https://github.com/hongooi73/sar
+[submodule "glmnetUtils"]
+	path = glmnetUtils
+	url = https://github.com/hongooi73/glmnetutils
