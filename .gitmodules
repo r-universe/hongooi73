@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AzureQstor"]
+	path = AzureQstor
+	url = https://github.com/hongooi73/azureqstor
 [submodule "SAR"]
 	path = SAR
 	url = https://github.com/hongooi73/sar
